@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091329742636",
+    "project_id": "camdigikey-a51d4",
+    "storage_bucket": "camdigikey-a51d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091329742636:android:eee00f4813124164003e89",
+        "android_client_info": {
+          "package_name": "com.mk.camdigikey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091329742636-s1840g7oqr7orfvb4503bs09g5itg35d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4-ubM2SLLM7-qfIV8VFIwL8KTe4Hdg0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091329742636-s1840g7oqr7orfvb4503bs09g5itg35d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

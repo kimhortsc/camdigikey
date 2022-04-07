@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CamDigiKey</string>
+    <string name="action_send_otp">Send OTP</string>
+</resources>
