@@ -42,7 +42,7 @@ class OTPActivity : AppCompatActivity() {
         auth.signInWithCredential(credential)
             .addOnCompleteListener(this) { task ->
                 if (task.isSuccessful) {
-                    val intent = Intent(this , MainActivity::class.java)
+                    val intent = Intent(this , RegisterActivity::class.java)
                     startActivity(intent)
                     finish()
                 } else {

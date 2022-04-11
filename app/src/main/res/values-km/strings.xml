@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">CamDigiKey</string>
-    <string name="action_send_otp">Send OTP</string>
-    <string name="label_preferences">PREFERENCES</string>
-    <string name="action_language">Language</string>
+    <string name="action_send_otp">ផ្ញើ OTP</string>
+    <string name="label_preferences">ជម្រើស</string>
+    <string name="action_language">ភាសា</string>
     <string name="label_legal_and_policies">LEGAL AND POLICIES</string>
     <string name="action_term_of_user">Term of User</string>
     <string name="action_privacy_policy">Privacy Policy</string>
@@ -17,8 +17,8 @@
     <string name="label_pin_code">Set up your pin code</string>
     <string name="label_retype_pin_code">Re-type your pin code</string>
     <string name="label_app_logo">App Logo</string>
-    <string name="action_register">Register</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_register">ចុះឈ្មោះ</string>
+    <string name="action_settings">ការកំណត់</string>
     <string name="label_app_description">A QR code authentication system that connect you to Cambodia\'s Government Digital Service</string>
     <string name="label_app_purpose">Easy yet secure mobile authentication service</string>
     <string name="label_khmer">Khmer</string>

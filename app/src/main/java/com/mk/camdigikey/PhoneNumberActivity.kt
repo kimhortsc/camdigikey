@@ -43,7 +43,7 @@ class PhoneNumberActivity : AppCompatActivity() {
 
             // This method is called when the verification is completed
             override fun onVerificationCompleted(credential: PhoneAuthCredential) {
-                startActivity(Intent(applicationContext, MainActivity::class.java))
+                startActivity(Intent(applicationContext, RegisterActivity::class.java))
                 finish()
                 Log.d("Msg", "onVerificationCompleted Success")
             }

@@ -64,6 +64,7 @@ dependencies {
 
     // Also declare the dependency for the Google Play services library and specify its version
     implementation 'com.google.android.gms:play-services-auth:20.1.0'
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
 
     implementation 'com.github.mukeshsolanki:android-otpview-pinview:2.1.2'
     implementation 'androidx.core:core-ktx:1.7.0'
